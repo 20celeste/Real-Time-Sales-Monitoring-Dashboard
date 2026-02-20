@@ -103,10 +103,12 @@ Explore the interactive dashboard
 <img width="1918" height="1031" alt="Screenshot 2026-02-20 165708" src="https://github.com/user-attachments/assets/2fbd0ba6-b966-45c6-ab21-f2c58d6afee0" />
 
 📂 Repository Structure
+
 Real-Time-Sales-Monitoring-Dashboard
-│── Real-Time Sales Monitoring Dashboard.pbix
-│── dashboard.png
-│── README.md
+│
+├── Real-Time Sales Monitoring Dashboard.pbix
+├── dashboard.png
+└── README.md
 
 🔮 Future Enhancements
 
